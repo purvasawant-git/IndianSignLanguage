@@ -1,0 +1,41 @@
+{
+  "total_classes": 26,
+  "classes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z"
+  ],
+  "collision_risks": [
+    {
+      "char_1": "H",
+      "char_2": "W",
+      "separation_dist": 0.5444,
+      "status": "SEPARABLE"
+    }
+  ],
+  "min_separation_distance": 0.5444,
+  "closest_pair": "H vs W"
+}

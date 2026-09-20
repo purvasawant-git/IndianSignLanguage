@@ -10,8 +10,8 @@ env/
 
 # Large Model files
 # Note: models/rf_model.pkl is ~125MB (GitHub strictly blocks single files >100MB without Git LFS).
-# If you want to push this model to GitHub, install and configure git-lfs, or keep it in Releases / Drive.
 models/*.pkl
+!models/.gitkeep
 
 # Environment and OS caches
 .DS_Store

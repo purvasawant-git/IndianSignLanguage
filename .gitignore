@@ -18,3 +18,10 @@ models/*.pkl
 Thumbs.db
 .idea/
 .vscode/
+
+# Raw dataset (kept locally, excluded from git tracking)
+dataset_ISL/
+
+# Presentations and extra documents
+*.pptx
+

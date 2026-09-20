@@ -89,3 +89,4 @@ If you want to use this as your camera source in a video call:
 - **Lack of Domain Expertise**: None of the project developers are natively familiar with Indian Sign Language. The data and nuances of actual signing may lack the fluidity or precision of a fluent signer.
 - **Scaling to Word-Based Recognition**: The current scope is limited to static, alphabet-by-alphabet spelling. Evolving the project to recognize continuous, dynamic word-based gestures involves temporal modeling, which is significantly more complex.
 - **Maintaining Accuracy at Scale**: Increasing the scope of the project (e.g., adding numbers, two-handed signs, or dynamic gestures) while keeping the same high level of accuracy and low latency can be very challenging.
+
